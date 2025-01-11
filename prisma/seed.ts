@@ -22,7 +22,7 @@ async function main() {
       username: 'zavy',
       name: 'Zavy',
       password:
-        '$argon2id$v=19$m=65536,t=3,p=4$uVDjpuMv7g3wC6CNgDBy+Q$6HD+S6GGRI3Dp1YQlwwEGuMFWmwuPMMEtiC44YlDzHA',
+        '$argon2i$v=19$m=65536,t=2,p=1$MTdCc0JmenNHMDhrdkJEOA$QGOypdi/wmaTMoIzHncJamv0jKEq1BH4CTUyUwUr3pE',
       seller: {
         create: {
           storeEmail: '',
